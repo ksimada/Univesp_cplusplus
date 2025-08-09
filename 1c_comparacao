@@ -1,0 +1,15 @@
+// Operações Condicionais
+
+#include <iostream>
+// == igual
+if (number1 == number2)
+    cout << number1 << " == " << number2 << std::endl;
+// != diferente
+if (number1 != number2)
+    cout << number1 << " != " << number2 << std::endl;
+// < maior
+    if (number1 < number2)
+    cout << number1 << " < " << number2 << std::endl;
+// > menor
+    if (number1 > number2)
+    cout << number1 << " > " << number2 << std::endl;
